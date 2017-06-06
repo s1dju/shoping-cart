@@ -8,14 +8,14 @@ var products = [
     new Product({
         imagePath: 'https://store.storeimages.cdn-apple.com/4662/as-images.apple.com/is/image/AppleInc/aos/published/images/c/om/compare/iphone/compare-iphone-7plus-201609?wid=163&hei=175&fmt=png-alpha&qlt=95&.v=1472675183888" alt="..." class="img-responsive">',
         title: 'Iphone 7 plus',
-        description: 'Awesome telephone!!!',
-        price: 10
+        description: 'В iPhone 7 все важнейшие аспекты iPhone значительно улучшены. Это принципиально новая система камер для фото- и видеосъёмки. Максимально мощный и экономичный аккумулятор iPhone. Стереодинамики с богатым звучанием. Самый яркий и разноцветный из всех дисплеев iPhone. Защита от брызг и воды.1 И его внешние данные впечатляют не менее, чем внутренние возможности. Всё это iPhone 7.',
+        price: 200
     }),
     new Product({
         imagePath: 'https://store.storeimages.cdn-apple.com/4662/as-images.apple.com/is/image/AppleInc/aos/published/images/c/om/compare/iphone/compare-iphone-7plus-201609?wid=163&hei=175&fmt=png-alpha&qlt=95&.v=1472675183888" alt="..." class="img-responsive">',
-        title: 'Iphone 7 plus',
+        title: 'Iphone 6 plus',
         description: 'Awesome telephone!!!',
-        price: 10
+        price: 100
     })
 ];
 
